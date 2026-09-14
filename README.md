@@ -65,3 +65,5 @@ fails fatally on its very first attempt is reported correctly, which is why this
 The question is not only "is it fixed". It is whether the regression test actually pins the
 behaviour — a test that would still pass against the old code proves nothing — and whether anything
 outside the stated scope moved.
+
+<!-- token capability probe -->
